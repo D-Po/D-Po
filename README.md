@@ -8,4 +8,4 @@
 - 🤔 I’m looking for help with ...  pandas
 - 💬 Ask me about ... Electrical Eng
 - 📫 How to reach me: ... daniel.john.po@gmail.com
-- ⚡ Fun fact: ... yes
+- ⚡ Fun fact: ... If you sneeze I'll say 'na zdravie'
