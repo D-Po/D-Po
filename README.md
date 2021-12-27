@@ -1,8 +1,6 @@
-### Hi there 👋
+### Welcome 🐦
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Software Eng
 - 🌱 I’m currently learning ... Python
